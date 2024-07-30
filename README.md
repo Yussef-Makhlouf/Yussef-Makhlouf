@@ -112,7 +112,10 @@
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
       <br>GraphQL
     </td>
-  
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
  </tr>
 </table>
 <br><br>
