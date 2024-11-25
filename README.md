@@ -119,7 +119,9 @@
  </tr>
 </table>
 <br><br>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Yussef-Makhlouf&label=Profile%20Views&pretty=false" />
+</a>
 
 </div>
 <br/>  
